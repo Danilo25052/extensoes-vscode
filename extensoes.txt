@@ -1,0 +1,5 @@
+Auto Rename Tag
+Dracula Theme Official
+Live Server
+Prettier - Code formatter
+Portuguese (Brazil) Language Pack for Visual Studio Code
